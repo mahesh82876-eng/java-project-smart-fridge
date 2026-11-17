@@ -1,7 +1,21 @@
 # 🧠 FridgeMind
 ## Smart Refrigerator Management, Food-Waste Intelligence & Personal Nutrition Platform
 
+<p align="center">
+  <b>A full-stack academic software prototype for intelligent household food management.</b><br/>
+  <i>Track what you store. Understand what needs attention. Plan meals around what you already have.</i>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.3.5-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-H2%20%7C%20MySQL-blue?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Maven-C71A36?logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Academic%20Prototype-informational" />
+</p>
+
+---
 
 # 1. Executive Overview
 
